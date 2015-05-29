@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/logo_insight.png</file>
+        <file>img/search.svg</file>
+        <file>img/add.svg</file>
+        <file>img/remove.svg</file>
+        <file>img/open.svg</file>
+        <file>img/close.svg</file>
+        <file>img/about.svg</file>
+        <file>img/qt.svg</file>
+        <file>img/update.svg</file>
+        <file>img/configuration.svg</file>
+    </qresource>
+</RCC>
